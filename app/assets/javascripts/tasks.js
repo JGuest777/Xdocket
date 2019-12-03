@@ -38,7 +38,10 @@ $(function() {
 				done: doneValue
 			}
 		}).success(function(data) {
-			console.log('Successfully Toggled');
+			var liHtml = taskHtml(data);
+			var $li = $('#listItem-' + data.id);
+			$li.replaceWith(liHtml);
+			$('.toggle').change(toggleTask);
 		});
 	}
 
