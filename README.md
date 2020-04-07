@@ -4,6 +4,8 @@ This single-page to-do application features a fluid user interface that– by us
 
 <img src="images/index.PNG">
 
+<img src="images/index2.PNG">
+
 ## Deployment
 
 * [https://todoster-james-guest.herokuapp.com/](https://todoster-james-guest.herokuapp.com/)
