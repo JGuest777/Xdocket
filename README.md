@@ -1,5 +1,7 @@
 # Xdocket
 
+[jguest777@gmail.com](mailto:jguest777@gmail.com)
+
 This single-page to-do application features a fluid user interface that– by using JavaScript– allows users to rapidly add dynamic content.
 
 <img src="images/index.PNG">
